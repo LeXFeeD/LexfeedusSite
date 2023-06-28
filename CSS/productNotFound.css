@@ -1,0 +1,40 @@
+.container {
+    background-color: #e6decf;
+}
+
+.header {
+    background-color: #e6decf;
+}
+
+.page-404{
+    position: relative;
+    padding-top: 15%;
+    padding-bottom: 60px;
+}
+
+.section-header{
+    text-align: center;
+}
+
+.header-title{
+    font-size: 2.125em;
+
+    display: block;
+    
+    font-weight: 700;
+    letter-spacing: .05em;
+    line-height: 1.2;
+    margin: 0 0 10px;
+}
+
+.text-spacing{
+    margin-bottom: 20px;
+}
+
+.text-spacing p{
+    margin-bottom: 25px;
+}
+
+.text-spacing a{
+    text-decoration: underline;
+}
