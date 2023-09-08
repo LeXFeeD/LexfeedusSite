@@ -50,7 +50,7 @@ h3 {
 body {
     font-family: var(--body-font);
     /*background-color: #fff7f0;*/
-    background-image: url("/ClientSide/Images/Background.png");
+    background-image: url("/LexfeedusSite/Images/Background.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
